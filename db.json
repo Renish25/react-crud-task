@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "Renish",
+      "lastName": "Kalariya",
+      "phone": "8160373503",
+      "email": "test@gmail.com",
+      "id": 1,
+      "address": "erdfedfedfesfdews gthbngthn",
+      "isActive": false,
+      "gender": "male"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test",
+      "phone": "1324567899",
+      "email": "testdemo2501@gmail.com",
+      "address": "gprejgohe hfiwgi",
+      "isActive": false,
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "firstName": "efef",
+      "lastName": "fefef",
+      "phone": "7546466465",
+      "email": "testdemo2501@gmail.com",
+      "dob": "2026-02-02",
+      "id": 3
+    }
+  ]
+}
