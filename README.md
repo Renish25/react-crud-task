@@ -7,7 +7,7 @@ The app is designed with extensibility in mind, allowing new form fields to be a
 
 🚀 Live Demo
 
-👉 Deployed App: Add your Vercel link here
+👉 Deployed App: react-crud-task-phi.vercel.app
 👉 GitHub Repository: https://github.com/Renish25/react-crud-task.git
 
 ⚙️ Setup Instructions
